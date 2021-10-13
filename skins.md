@@ -1,7 +1,7 @@
 # **compilation of all mokyu mix skins**
 
 * [**osu! profile**](https://osu.ppy.sh/u/6846100)
-* i don't make skin elements myself, i start with a base skin and add in a bunch of random elements from other skins i have at the time.
+* i haven't made any skin elements myself, i have merely mixed a bunch of skin elements that i like together.
 
 # [sheoul](https://suiryu.s-ul.eu/GmRbL41A)
 ![](https://i.imgur.com/mwosNjb.png)
@@ -12,7 +12,11 @@
 # [- rafis+mokyu](https://suiryu.s-ul.eu/8ZZC7R9Q)
 ![](https://i.imgur.com/E2SVkdV.jpg)
 
-# [mokyu7](https://suiryu.s-ul.eu/zEMxjm90)
-![](https://i.imgur.com/HXohINJ.jpg)
+# [mokyu](https://suiryu.s-ul.eu/9RWWfQCS)
+![](https://i.imgur.com/JYQ5nBj.jpg)
 
-i would put older versions here, but since i'm a dumbfuck who didn't back up older versions i don't have then. it's okay though, i just used whatever version at the time and mixed the new version onto that, so everything from mokyu v1-v6 should be included in v7.
+# [Prawolisc+mokyu (2018)](https://suiryu.s-ul.eu/snkC7eHp)
+![](https://i.imgur.com/Fy3I5sr.jpg)
+
+# [!+-Yasu (2017)](https://suiryu.s-ul.eu/lgbsAq6W)
+![](https://i.imgur.com/eLf1D96.jpg)
