@@ -1,7 +1,7 @@
 # **compilation of all mokyu mix skins**
 
 * [**osu! profile**](https://osu.ppy.sh/u/6846100)
-* i haven't made any skin elements myself, i have merely mixed a bunch of skin elements that i like together.
+* i only mix skin elements, i don't make any from scratch.
 
 # [sheoul (infinity)](https://suiryu.s-ul.eu/13SXlnzb)
 ![](https://suiryu.s-ul.eu/a65Hb5NG)
