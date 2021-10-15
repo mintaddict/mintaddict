@@ -1,4 +1,4 @@
-# **mokyu mix skins**
+# **mokyu skins**
 
 * [**osu! profile**](https://osu.ppy.sh/u/6846100)
 * i only mix skin elements, i don't make any from scratch.
