@@ -6,8 +6,8 @@
 # [sheoul (infinity)](https://suiryu.s-ul.eu/13SXlnzb)
 ![](https://suiryu.s-ul.eu/a65Hb5NG)
 
-# [sheoul (lokser](https://suiryu.s-ul.eu/yx5xkFXM)
-![](hhttps://suiryu.s-ul.eu/WYFruYpX)
+# [sheoul (lokser)](https://suiryu.s-ul.eu/yx5xkFXM)
+![](https://suiryu.s-ul.eu/WYFruYpX)
 
 # [sheoul (shii)](https://suiryu.s-ul.eu/p9iLNati)
 ![](https://suiryu.s-ul.eu/TPFwGve9)
