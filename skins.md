@@ -15,7 +15,7 @@
 # [sheoul (silver)](https://suiryu.s-ul.eu/PamWhp7D)
 ![](https://suiryu.s-ul.eu/mcyElFJy)
 
-# [sheoul (silver)](https://suiryu.s-ul.eu/XPDMhWkz)
+# [sheoul (blucraft)](https://suiryu.s-ul.eu/XPDMhWkz)
 ![](https://suiryu.s-ul.eu/NkXN47U6)
 
 # [solitude](https://suiryu.s-ul.eu/j0hXTwmv)
