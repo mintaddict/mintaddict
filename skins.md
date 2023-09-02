@@ -4,7 +4,7 @@
 * i only mix skin elements, i don't make any from scratch.
 * ordered by which i like more.
 
-# [mokyuraider](https://ys.s-ul.eu/pX7huB0b)
+# [mokyuraider](https://ys.s-ul.eu/Mi1SFvPF)
 ![](https://ys.s-ul.eu/cFAnsNmh)
 
 # [mokyu](https://suiryu.s-ul.eu/9RWWfQCS)
