@@ -5,7 +5,7 @@
 * ordered by which i like more.
 
 # [mokyu V2](https://ys.s-ul.eu/XQFncAGb)
-![](https://ys.s-ul.eu/ActSn4tb)
+![](https://ys.s-ul.eu/aUKIXx6Z)
 
 # [mokyuraider](https://ys.s-ul.eu/Mi1SFvPF)
 ![](https://ys.s-ul.eu/cFAnsNmh)
