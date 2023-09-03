@@ -4,6 +4,9 @@
 * i only mix skin elements, i don't make any from scratch.
 * ordered by which i like more.
 
+# [mokyu V2](https://ys.s-ul.eu/XQFncAGb)
+![](https://ys.s-ul.eu/ActSn4tb)
+
 # [mokyuraider](https://ys.s-ul.eu/Mi1SFvPF)
 ![](https://ys.s-ul.eu/cFAnsNmh)
 
@@ -12,9 +15,6 @@
 
 # [LEVEL9](https://suiryu.s-ul.eu/dNP6ldbJ)
 ![](https://suiryu.s-ul.eu/PAyjHb6T)
-
-# [m6kyu](https://ys.s-ul.eu/G2E1fJzO)
-![](https://ys.s-ul.eu/b677U2i1)
 
 # [- rafis+mokyu](https://suiryu.s-ul.eu/8ZZC7R9Q)
 ![](https://i.imgur.com/E2SVkdV.jpg)
