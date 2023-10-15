@@ -4,6 +4,9 @@
 * i only mix skin elements, i don't make any from scratch.
 * ordered from newest to oldest.
 
+# [dt [rudj+mokyu]](https://ys.s-ul.eu/baG1655N) | [instafade version](https://ys.s-ul.eu/8eXusqPF)
+![](https://ys.s-ul.eu/3OoDjD3n)
+
 # [user 6846100](https://ys.s-ul.eu/VM04dSpt)
 ![](https://ys.s-ul.eu/hE3VTefN)
 
