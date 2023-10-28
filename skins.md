@@ -22,9 +22,6 @@
 # [mokyuraider](https://ys.s-ul.eu/Mi1SFvPF)
 ![](https://ys.s-ul.eu/cFAnsNmh)
 
-# [moclack](https://ys.s-ul.eu/zfTCx6OF)
-![](https://ys.s-ul.eu/8OqJ645L)
-
 # [LEVEL9](https://suiryu.s-ul.eu/dNP6ldbJ)
 ![](https://suiryu.s-ul.eu/PAyjHb6T)
 
