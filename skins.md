@@ -4,7 +4,7 @@
 * i only mix skin elements, i don't make any from scratch.
 * ordered from newest to oldest.
 
-# [刻ト詩mokyu](https://ys.s-ul.eu/hqtwSv0s)
+# [mokyu1](https://ys.s-ul.eu/qcnNRI7O)
 ![](https://ys.s-ul.eu/ecXvixAj)
 
 # [aristia+reused](https://ys.s-ul.eu/Hhde2I5X)
