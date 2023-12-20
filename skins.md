@@ -4,6 +4,9 @@
 * i only mix skin elements, i don't make any from scratch.
 * sorted by newest to oldest.
 
+# [fierymokyu](https://ys.s-ul.eu/gQlbx0CS)
+![](https://ys.s-ul.eu/3jWxXF0r)
+
 # [worst dt player](https://ys.s-ul.eu/GiGPl6JE)
 ![](https://ys.s-ul.eu/gPGLBlAA)
 
