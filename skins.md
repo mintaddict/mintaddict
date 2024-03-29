@@ -4,11 +4,20 @@
 * i only mix skin elements, i don't make any from scratch.
 * sorted by newest to oldest.
 
+# [potofu x mokyu](https://suiryu.s-ul.eu/0zOpVYDg)
+![](https://suiryu.s-ul.eu/vmxvcYDo)
+
+# [mokyu aokana](https://suiryu.s-ul.eu/QgvIdbiB)
+![](https://suiryu.s-ul.eu/oFEVBFiA)
+
+# [malkyu](https://suiryu.s-ul.eu/qNJx1N0K)
+![](https://suiryu.s-ul.eu/rrr39sok)
+
 # [spazza+mokyu](https://suiryu.s-ul.eu/hzq3rmhD)
 ![](https://suiryu.s-ul.eu/btZDCdSu)
 
-# [worst dt player](https://ys.s-ul.eu/GiGPl6JE)
-![](https://ys.s-ul.eu/gPGLBlAA)
+# [worst aim player](https://suiryu.s-ul.eu/tYUTMfPu)
+![](https://suiryu.s-ul.eu/mRk3oRdE)
 
 # [mokyu1](https://ys.s-ul.eu/qcnNRI7O)
 ![](https://ys.s-ul.eu/ecXvixAj)
