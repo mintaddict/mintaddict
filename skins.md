@@ -4,7 +4,7 @@
 * i only mix skin elements, i don't make any from scratch.
 * sorted by newest to oldest.
 
-* # [mokyu coffee](https://yasu.s-ul.eu/SEtymflj)
+# [mokyu coffee](https://yasu.s-ul.eu/SEtymflj)
 ![](https://yasu.s-ul.eu/y1fFIUdX)
 
 # [potofu x mokyu](https://suiryu.s-ul.eu/0zOpVYDg)
