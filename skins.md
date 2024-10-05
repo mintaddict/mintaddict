@@ -25,6 +25,9 @@
 # [mokyu+404](https://ys.s-ul.eu/jBUKLdpt)
 ![](https://ys.s-ul.eu/xhE9Uvau)
 
+# [mokyu 2021](https://yasu.s-ul.eu/k78ISTpM)
+![](https://yasu.s-ul.eu/ULoWpe1V)
+
 # [mokyu V2](https://ys.s-ul.eu/UajTYKDW)
 ![](https://ys.s-ul.eu/ActSn4tb)
 
