@@ -4,10 +4,10 @@
 * i only mix skin elements, i don't make any from scratch.
 * sorted by newest to oldest.
 
-# [-  ★ 🇯🇵 zafis](https://wrath.s-ul.eu/yAUEluKh)
+# [zafis](https://wrath.s-ul.eu/yAUEluKh)
 ![](https://wrath.s-ul.eu/IYQ4HWgI)
 
-# [-  ★ zenthagon]([https://wrath.s-ul.eu/enpSLHTs])
+# [zenthagon]([https://wrath.s-ul.eu/enpSLHTs])
 ![](https://wrath.s-ul.eu/Q57yaqy6)
 
 # [angelzen](https://wrath.s-ul.eu/lGo32cae)
