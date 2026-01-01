@@ -3,18 +3,12 @@
 * [**osu! profile**](https://osu.ppy.sh/u/6846100)
 * i only mix skin elements, i don't make any from scratch.
 * sorted by newest to oldest.
+* 
+# [mokyu tryhard](https://wrath.s-ul.eu/5mTXqavH)
+![](https://wrath.s-ul.eu/gZMrvhc0)
 
-# [zafis](https://wrath.s-ul.eu/yAUEluKh)
-![](https://wrath.s-ul.eu/IYQ4HWgI)
-
-# [zenthagon](https://wrath.s-ul.eu/enpSLHTs)
-![](https://wrath.s-ul.eu/Q57yaqy6)
-
-# [angelzen](https://wrath.s-ul.eu/lGo32cae)
-![](https://wrath.s-ul.eu/Ahtd6fUV)
-
-# [zenithism](https://suiryu.s-ul.eu/fAStH9v0)
-![](https://suiryu.s-ul.eu/VBep5RgS)
+# [mokyu2](https://wrath.s-ul.eu/cYGqvKxK)
+![]([https://wrath.s-ul.eu/8dTeQ9rl)
 
 # [mokyu coffee](https://yasu.s-ul.eu/SEtymflj)
 ![](https://yasu.s-ul.eu/y1fFIUdX)
