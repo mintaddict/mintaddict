@@ -8,7 +8,7 @@
 ![](https://wrath.s-ul.eu/gZMrvhc0)
 
 # [mokyu2](https://wrath.s-ul.eu/cYGqvKxK)
-![]([https://wrath.s-ul.eu/8dTeQ9rl)
+![](https://wrath.s-ul.eu/8dTeQ9rl)
 
 # [mokyu coffee](https://yasu.s-ul.eu/SEtymflj)
 ![](https://yasu.s-ul.eu/y1fFIUdX)
