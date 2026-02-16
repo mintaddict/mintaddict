@@ -1,9 +1,9 @@
 # **mokyu osu! skins**
 
-* [**osu! profile**](https://osu.ppy.sh/u/6846100)
-* i only mix skin elements, i don't make any from scratch.
-* sorted by newest to oldest.
-* 
+[**osu! profile**](https://osu.ppy.sh/u/6846100)
+* Only mixed skin elements, I don't make any from scratch.
+* Sorted by newest to oldest.
+  
 # [mokyu tryhard](https://wrath.s-ul.eu/5mTXqavH)
 ![](https://wrath.s-ul.eu/gZMrvhc0)
 
