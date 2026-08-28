@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<sub>Minimal niri + waybar setup (Gentoo OpenRC) 👁️‍🗨️💜</sub>
+### Minimal niri + waybar setup (Gentoo OpenRC) 👁️‍🗨️💜
 
 </div>
 
