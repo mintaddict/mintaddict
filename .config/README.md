@@ -7,6 +7,8 @@
 ### dependencies
 - niri
 - waybar
+- pipewire
+- pavucontrol
 - mako
 - rofi
 - rofimoji
