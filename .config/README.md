@@ -2,11 +2,7 @@
 ![](https://wrath.s-ul.eu/K5IX04cT)
 ![](https://wrath.s-ul.eu/pxSWs9hH)
 
-<div align="center">
-
-### Minimal niri + waybar setup (Gentoo OpenRC) 👁️‍🗨️💜
-
-</div>
+# Minimal niri + waybar setup (Gentoo OpenRC) 👁️‍🗨️💜
 
 ### dependencies
 - niri
