@@ -1,1 +1,38 @@
 
+foreground                      #F0E4CF
+background                      #000000
+selection_foreground            #F0E4CF
+selection_background            #746956
+
+cursor                          #F3EADB
+cursor_text_color               #404040
+
+active_tab_foreground           #F0E4CF
+active_tab_background           #9C6992
+inactive_tab_foreground         #F0E4CF
+inactive_tab_background         #555555
+
+# black
+color0 #404040
+color8 #625A5B
+# red
+color1 #E3716E
+color9 #EC8685
+# green
+color2  #819B69
+color10 #8BAE68
+# yellow
+color3  #B77E64
+color11 #D68C67
+# blue
+color4  #6099C0
+color12 #61ABDA
+# magenta
+color5  #957edb
+color13 #957edb
+# cyan
+color6  #66A5AD
+color14 #65B8C1
+# white
+color7  #F0E4CF
+color15 #C0AB86
