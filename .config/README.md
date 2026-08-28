@@ -1,4 +1,4 @@
-### Minimal niri + waybar setup (Gentoo OpenRC)
+# Minimal niri + waybar setup (Gentoo OpenRC)
 
 ![](https://wrath.s-ul.eu/89zRLW3k)
 ![](https://wrath.s-ul.eu/K5IX04cT)
@@ -6,7 +6,7 @@
 
 perfect for purple lovers 👁️‍🗨️
 
-# dependencies
+## dependencies
 - niri
 - waybar
 - mako
@@ -19,7 +19,7 @@ perfect for purple lovers 👁️‍🗨️
 - swaybg
 - swaylock-effects
 
-# my X of choice
+## my X of choice
 - browser: Librewolf
 - editor: KWrite
 - file manager: Dolphin
