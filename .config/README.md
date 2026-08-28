@@ -4,9 +4,9 @@
 ![](https://wrath.s-ul.eu/K5IX04cT)
 ![](https://wrath.s-ul.eu/pxSWs9hH)
 
-perfect for purple lovers 👁️‍🗨️
+## perfect for purple lovers 👁️‍🗨️💜
 
-## dependencies
+### dependencies
 - niri
 - waybar
 - mako
@@ -19,7 +19,7 @@ perfect for purple lovers 👁️‍🗨️
 - swaybg
 - swaylock-effects
 
-## my X of choice
+### my programs of choice
 - browser: Librewolf
 - editor: KWrite
 - file manager: Dolphin
