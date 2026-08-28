@@ -23,6 +23,8 @@
 - file manager: Dolphin
 - terminal: kitty
 - shell: zsh + omz (it goes without saying that `.zshrc` should be placed in /home/$USER)
+- image viewer: qView
+- media player: mpv
 
 I recommend going through my niri `config.kdl` file and adjusting it in case you plan on using it.
 
