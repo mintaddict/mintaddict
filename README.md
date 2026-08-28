@@ -1,3 +1,0 @@
-## Gentoo Niri dotfiles
-
-tba
