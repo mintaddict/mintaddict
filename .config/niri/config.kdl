@@ -114,7 +114,7 @@ hotkey-overlay {
     skip-at-startup
 }
 
-screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
+screenshot-path "/mnt/Storage/Pictures/niri screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 
 binds {
     //Mod+Shift+Slash { show-hotkey-overlay; }
