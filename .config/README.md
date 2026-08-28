@@ -27,8 +27,7 @@
 - media player: mpv
 - terminal: kitty
 - shell: zsh + omz (it goes without saying that `.zshrc` should be placed in /home/$USER)
-
-<sup>[This](https://github.com/novaspirit/pimpyourterm) guide is awesome for ~ricing~~ pimping your terminal.</sup>
+  - <sup>[This](https://github.com/novaspirit/pimpyourterm) guide is awesome for ~ricing~~ pimping your terminal.</sup>
 
 I recommend going through my `.config/niri/config.kdl` file and adjusting it in case you plan on using it.
 
