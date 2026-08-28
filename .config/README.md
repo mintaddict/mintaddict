@@ -1,3 +1,3 @@
-## personal niri setup (Gentoo OpenRC)
+## niri + waybar (Gentoo OpenRC)
 
 tba 🙂
