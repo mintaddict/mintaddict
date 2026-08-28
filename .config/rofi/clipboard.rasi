@@ -1,0 +1,17 @@
+@import "~/.config/rofi/config.rasi"
+
+* {
+    font: "Iosevka Nerd Font 20";
+}
+
+inputbar {
+    enabled: false;
+}
+
+#window {
+    width: 700px;
+}
+
+#listview {
+    lines: 6;
+}
