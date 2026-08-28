@@ -28,7 +28,7 @@
 - terminal: kitty
 - shell: zsh + omz (it goes without saying that `.zshrc` should be placed in /home/$USER)
 
-I recommend going through my niri `config.kdl` file and adjusting it in case you plan on using it.
+I recommend going through my `.config/niri/config.kdl` file and adjusting it in case you plan on using it.
 
 <sup>you should only use it as inspiration and configure your own tbh</sup>
 
