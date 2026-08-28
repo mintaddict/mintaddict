@@ -4,8 +4,7 @@
 
 <div align="center">
 
-# Minimal niri + waybar setup (Gentoo OpenRC)
-## perfect for purple lovers 👁️‍🗨️💜
+<sub>Minimal niri + waybar setup (Gentoo OpenRC) 👁️‍🗨️💜</sub>
 
 </div>
 
