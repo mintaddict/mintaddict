@@ -4,7 +4,7 @@
 
 # Minimal niri + waybar setup (Gentoo OpenRC) 👁️‍🗨️💜
 
-### dependencies
+### stuff used
 - niri
 - waybar
 - pipewire
