@@ -1,0 +1,7 @@
+@import "~/.config/rofi/config.rasi"
+
+element-icon {
+    background-color: transparent;
+    size:             0px;
+    cursor:           inherit;
+}
