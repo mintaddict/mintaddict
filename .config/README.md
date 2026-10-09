@@ -20,7 +20,7 @@
 - swaylock-effects
 
 ### my programs of choice
-- browser: Librewolf
+- browser: Helium
 - editor: KWrite
 - file manager: Dolphin
 - image viewer: qView
