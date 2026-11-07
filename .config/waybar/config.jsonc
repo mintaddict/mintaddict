@@ -1,50 +1,60 @@
 {
-    "layer": "top",
-    "position": "top",
-    "height": 30,
-    "spacing": 8,
+    "layer": "top", // Waybar at top layer
+    "position": "top", // Waybar position (top|bottom|left|right)
+    "height": 30, // Waybar height (to be removed for auto height)
+    "spacing": 8, // Gaps between modules (4px)
 
     "modules-left": [
         "niri/workspaces",
         "niri/window"
     ],
 
+    "modules-center": [
+        "clock"
+    ],
+
     "modules-right": [
-        "tray",
         "cpu",
         "memory",
         "network",
         "pulseaudio",
-        "clock"
+        "tray"
     ],
 
     "tray": {
         "spacing": 10,
-        "icon-size": 30
+        "icon-size": 28,
+        "reverse-direction": true,
+        "orders": {
+            "fcitx": 1,
+            "discord": 2,
+            "steam": 3,
+            "obs": 4
+        }
     },
 
     "niri/window": {
-        "format": "{title}",
-        "max-length": 150,
+        "format": "<span color='#cccccc'>{title}</span>",
+        "max-length": 60,
         "separate-outputs": true
     },
 
     "clock": {
-        "format": "{:%Y-%m-%d %H:%M:%S}",
+        "format": "{:%Y-%m-%d <span color='#cccccc'>%H:%M:%S</span>}",
         //"tooltip-format": "<tt>{calendar}</tt>",
-        "tooltip-format": "<tt><span font='Iosevka Nerd Font' size='18pt'><b>{calendar}</b></span></tt>",
+        "tooltip-format": "<tt><span font='GoMono Nerd Font' size='20pt'><b>{calendar}</b></span></tt>",
         "calendar": {
             "mode": "month",
             "mode-mon-col": 3,
-            "weeks-pos": "right",
+            //"weeks-pos": "right",
             "on-scroll": 1,
             "on-click-right": "mode",
             "format": {
-                "months": "<span color='#b59aeb'><b>{}</b></span>",
-                "days": "<span color='#cdd6f4'>{}</span>",
+                "months": "<span color='#6e56af'><b>{}</b></span>",
+                "days": "<span color='#cccccc'>{}</span>",
                 "weeks": "<span color='#f38ba8'>W{}</span>",
-                "weekdays": "<span color='#a6adc8'><b>{}</b></span>",
-                "today": "<span color='#f9e2af'><b><u>{}</u></b></span>"
+                "weekdays": "<span color='#ba5151'><b>{}</b></span>",
+                "today": "<span color='#dda646'><b><u>{}</u></b></span>"
             }
         },
         "interval": 1
@@ -52,21 +62,21 @@
 
     "cpu": {
         "interval": 5,
-        "format": "CPU {usage}%",
+        "format": "CPU <span color='#cccccc'>{usage}%</span>",
         "states": { "warning": 70, "critical": 90 },
         "on-click": "kitty -e btop"
     },
 
     "memory": {
         "interval": 5,
-        "format": "MEM {percentage}%",
+        "format": "MEM <span color='#cccccc'>{percentage}%</span>",
         "states": { "warning": 70, "critical": 90 },
         "tooltip-format": "{used:0.1f} GiB / {total:0.1f} GiB",
         "on-click": "kitty -e btop"
     },
 
     "backlight": {
-        "format": "BRT {percent}%",
+        "format": "BRT <span color='#cccccc'>{percent}%</span>",
         "on-scroll-up": "brightnessctl set 5%+",
         "on-scroll-down": "brightnessctl set 5%-"
     },
@@ -77,7 +87,7 @@
             "warning": 20,
             "critical": 10
         },
-        "format": "BAT {capacity}%",
+        "format": "BAT <span color='#cccccc'>{capacity}%</span>",
         "format-charging": "CHG {capacity}%",
         "format-plugged": "AC {capacity}%",
         "tooltip-format": "{timeTo} · {power}W"
@@ -85,14 +95,14 @@
 
     "network": {
         "format-ethernet": "NET",
-        "format-wifi": "NET {signalStrength}%",
+        "format-wifi": "NET <span color='#cccccc'>{signalStrength}%</span>",
         "format-disconnected": "NET --",
         "tooltip-format": "Network Information\n\nSSID: {essid}\nIP: {ipaddr}\nBand: {frequency} MHz\nSignal: {signalStrength}%   \nvia: {ifname}",
         "tooltip-format-disconnected": "no connection"
   },
 
     "pulseaudio": {
-        "format": "VOL {volume}%",
+        "format": "VOL <span color='#cccccc'>{volume}%</span>",
         "format-muted": "MUTE",
         "scroll-step": 5,
         "tooltip-format": "{desc}",
