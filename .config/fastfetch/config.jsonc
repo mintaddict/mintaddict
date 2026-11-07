@@ -1,9 +1,9 @@
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
     "logo": {
-    	"source": "~/.config/fastfetch/2.txt", // replace with your specific distro or use 'fastfetch --list-logos' to find the exact logo you want
+        "source": "~/.config/fastfetch/1.txt",
         "type": "auto",
-        "height": 8,
+        "height": 7,
         "padding": {
             "top": 0,
             "left": 0,
@@ -14,53 +14,46 @@
     },
     "modules": [
         {
-            "key": "os      ",
+            "key": "USER   ",
+            "keyColor": "38;5;5",
+            "type": "title",
+            "format": "{1}"
+        },
+        {
+            "key": "OS     ",
             "keyColor": "38;5;5",
             "type": "os",
             "format": "{3}"
         },
         {
-            "key": "kernel  ",
+            "key": "KERNEL ",
             "keyColor": "38;5;5",
             "type": "kernel",
             "format": "{2}"
         },
         {
-            "key": "pkgs    ",
+            "key": "AGE    ",
+            "keyColor": "38;5;5",
+            "type": "command",
+            "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
+        },
+        {
+            "key": "PKGS   ",
             "keyColor": "38;5;5",
             "type": "packages",
-            "format": "{10} (emerge)"
+            "format": "{11}"
         },
         {
-            "key": "memory  ",
+            "key": "SHELL  ",
             "keyColor": "38;5;5",
-            "type": "memory",
-            "format": "{1} ({3})"
+            "type": "shell",
+            "format": "{1}"
         },
         {
-            "key": "system  ",
+            "key": "WM     ",
             "keyColor": "38;5;5",
-            "type": "disk",
-            "folders": ["/"],
-            "format": "{1} ({3})"
-        },
-        {
-            "key": "storage ",
-            "keyColor": "38;5;5",
-            "type": "disk",
-            "folders": ["/mnt/Storage"],
-            "format": "{1} ({3})"
-        },
-        {
-            "key": "uptime  ",
-            "keyColor": "38;5;5",
-            "type": "uptime"
-        },
-        {
-            "type": "command",
-            "key": "age     ",
-            "keyColor": "35",
-            "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
+            "type": "wm",
+            "format": "{1}"
         },
     ]
 }
