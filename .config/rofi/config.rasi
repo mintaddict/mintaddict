@@ -20,32 +20,7 @@ configuration {
     fixed-height: true;
    }
 
-
 @theme "storm"
-
-/* ── Palette ──────────────────────────────────────────────────────────── */
-* {
-    bg0:     #141319;   /* bg_dark */
-    bg1:     #232236;   /* bg */
-    bg2:     #302f4d;   /* bg_highlight */
-    bg3:     #5b547e;   /* dark3 */
-    fg0:     #d3c8f5;   /* fg */
-    fg1:     #8f82b8;   /* fg_dark */
-    fg2:     #7b73a2;   /* dark5 */
-    red:     #ff757f;
-    green:   #c3e88d;
-    yellow:  #ffc777;
-    blue:    #82aaff;
-    magenta: #c099ff;
-    cyan:    #86e1fc;
-    purple:  #fca7ea;
-
-    accent:  @blue;
-    urgent:  @yellow;
-
-    background-color: transparent;
-    text-color:       @fg0;
-}
 
 /* ── Window ───────────────────────────────────────────────────────────── */
 window {
@@ -92,14 +67,14 @@ mainbox {
     background-color: transparent;
     children:         [ inputbar, message, listview ];
     spacing:          0;
-    padding:          12px;
+    padding:          0px;
 }
 
 /* ── Input bar ────────────────────────────────────────────────────────── */
 inputbar {
     background-color: @bg0;
     padding:          1px 10px;
-    margin:           0 0 10px 0;
+    margin:           0 0 12px 0;
     children:         [ prompt, entry ];
     spacing:          6px;
 }
@@ -107,7 +82,7 @@ inputbar {
 prompt {
     background-color: transparent;
     text-color:       @accent;
-    font:             "Iosevka Nerd Font 20";
+    font:             "GoMono Nerd Font 20";
 }
 
 entry {
@@ -115,7 +90,7 @@ entry {
     text-color:       @fg0;
     placeholder:      "";
     placeholder-color: @fg2;
-    font:             "Iosevka Nerd Font 20";
+    font:             "GoMono Nerd Font 20";
     cursor:           text;
 }
 
@@ -205,7 +180,7 @@ element-text {
     text-color:       inherit;
     cursor:           inherit;
     vertical-align:   0.5;
-    font:             "Iosevka Nerd Font 20";
+    font:             "GoMono Nerd Font 20";
 }
 
 /* ── Message ──────────────────────────────────────────────────────────── */
@@ -219,5 +194,5 @@ message {
 textbox {
     background-color: transparent;
     text-color:       @fg2;
-    font:             "Iosevka Nerd Font 20";
+    font:             "GoMono Nerd Font 20";
 }
