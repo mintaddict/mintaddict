@@ -1,15 +1,15 @@
 * {
-    font-family: Iosevka Nerd Font;
+    font-family: GoMono Nerd Font;
     font-weight: bold;
     font-size: 20px;
     border: none;
-    border-radius: 0px;
-    min-height: 0px;
+    border-radius: 0;
+    min-height: 0;
 }
 
 window#waybar {
     background-color: rgba(0, 0, 0, 1);
-    color: #e3e1e9;
+    color: #6e56af;
     transition: background-color 0.3s ease;
 }
 
@@ -19,40 +19,36 @@ window#waybar {
     padding: 0px 0px;
 }
 
-
 #workspaces button {
-    padding: 0px 7px;
-    margin: 0px;
-    color: #e3e1e9;
+    padding: 0px 5px;
+    margin: 0;
+    color: #6e56af;
     background-color: transparent;
     box-shadow: none;
 }
 
 #workspaces button.empty {
-    color: #e3e1e9;
-    opacity: 0.35;
+    color: #cccccc;
+    opacity: 0.33;
 }
 
 #workspaces button:hover {
-    color: #cbcbcb;
     opacity: 1;
     background: #222222;
 }
 
 #workspaces button.active {
-    background: #cbcbcb;
+    background: #6e56af;
     color: #121318;
 }
 
 #workspaces button.urgent {
-    color: #e3e1e9;
-    border-bottom: 2px solid alpha(#e3e1e9, 0.75);
+    color: #6e56af;
+    border-bottom: 2px solid alpha(#6e56af, 0.75);
     animation: blink 0.8s step-end infinite;
 }
 
-#window {
-padding: 0px 5px;
-}
+#window,
 #clock,
 #custom-dnd,
 #network,
@@ -63,7 +59,7 @@ padding: 0px 5px;
 #memory,
 #tray {
 padding: 0px 10px;
-color: #e3e1e9;
+color: #6e56af;
 }
 
 
@@ -76,11 +72,11 @@ color: #e3e1e9;
 
 #battery.charging,
 #battery.plugged {
-    color: #e3e1e9;
+    color: #6e56af;
 }
 
 #battery.warning:not(.charging) {
-    color: alpha(#e3e1e9, 0.75);
+    color: alpha(#6e56af, 0.75);
 }
 
 #battery.critical:not(.charging) {
@@ -103,11 +99,11 @@ color: #8a3b2e;
 }
 
 #network.disconnected {
-    color: alpha(#e3e1e9, 0.40);
+    color: alpha(#6e56af, 0.40);
 }
 
 tooltip {
     background-color: #000000;
     border: 1px solid alpha(#f0e4cf, 0.20);
-    color: #e3e1e9;
+    color: #6e56af;
 }
