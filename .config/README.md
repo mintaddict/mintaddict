@@ -3,7 +3,7 @@
 ![](https://wrath.s-ul.eu/uUkCjOoI)
 
 # Minimal niri + waybar setup (Gentoo OpenRC) 👁️‍🗨️💜
-<sup>won't be updating this as I've moved on to Umbriel + Noctalia</sup>
+I won't be updating this as I've moved on to Umbriel + Noctalia
 
 ### stuff used
 - niri
