@@ -1,8 +1,9 @@
-![](https://wrath.s-ul.eu/89zRLW3k)
-![](https://wrath.s-ul.eu/K5IX04cT)
-![](https://wrath.s-ul.eu/pxSWs9hH)
+![](https://wrath.s-ul.eu/8f71aDBd)
+![](https://wrath.s-ul.eu/TWI1Ry17)
+![](https://wrath.s-ul.eu/uUkCjOoI)
 
 # Minimal niri + waybar setup (Gentoo OpenRC) 👁️‍🗨️💜
+<sup>won't be updating this as I've moved on to Umbriel + Noctalia</sup>
 
 ### stuff used
 - niri
